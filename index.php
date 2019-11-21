@@ -35,6 +35,8 @@
     </section>
 
     <section id="pupusas">
+    	<h2>Funes Rivera, Roberto Enrique</h2>
+    	<h2>Gómez Trejo, Ronald Fernando</h2>
         <h2>¿Quieres adquirir pupusas online?</h2>
         <p> Pupusas virtuales es un proyecto que desea virtualizar las pupusas para poderlas distribuir electrónicamente a todo El Salvador y luego a todo el mundo, ya que como sabemos las pupusas son amor y al compartirlas estamos repartiendo amor.</p>
     </section>
