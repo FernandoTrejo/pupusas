@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no, initial-scale=1, maxium-scale=1, minium-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pupusas Virtuales</title>
+    <title>Pupusas Virtuales Cambio</title>
     <link rel="stylesheet" href="static/css/estilos.css">
     <link rel="icon" href="static/images/favicon-pupusa.ico">
 </head>
